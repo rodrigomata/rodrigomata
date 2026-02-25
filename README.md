@@ -1,19 +1,36 @@
-## Rodrigo Mata
+# Hi there, I'm Rodrigo 👋
 
-<div align="center" style="display: none">
-  
-</div>
+### Software Engineer • Builder • Systems & Product Architecture Enthusiast
 
-<p align="left">
-  <a href="https://github.com/rodrigomata">
-    <img align="right" height="180px" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomata&layout=compact" />
-  </a>
-  
-</p>
+I build scalable products and developer-focused systems with a strong emphasis on **clean architecture**, **maintainability**, and **great user experience**.
 
-<p align="right">
-  <a href="https://github.com/rodrigomata/github-readme-stats">
-    <img align="left" height="180px" width="47%" src="https://github-readme-stats.vercel.app/api?username=rodrigomata&count_private=true&show_icons=true&hide_rank=true&hide=stars&bg_color=15,#000428,#004e92" />
-  </a>
-</p>
+- 🧠 Interested in: **Backend Architecture, Monorepos, DevOps, AI-assisted workflows**
+- 🛠️ Working with: **NestJS, TypeScript, Nx, AWS, Tauri, Rust, Go, Vue, Unity**
+- 🚀 Building products across: **SaaS, gaming, productivity, and community-focused apps**
 
+---
+
+## 🚀 About Me
+
+I'm a hands-on engineer and product builder who enjoys turning complex ideas into structured, scalable systems.
+
+I care a lot about:
+
+- **Clean Architecture / DDD / Hexagonal approaches**
+- **Event-driven systems**
+- **Monorepos (Nx/Bazel)**
+- **Cloud infrastructure (AWS, Terraform, CI/CD)**
+- **Developer experience and automation**
+- **Building polished products with real-world usability**
+
+---
+
+## ✨ Fun Notes
+
+- I enjoy designing systems that scale without becoming unmaintainable.
+- I like combining **engineering + product thinking + design polish**.
+- I’m always exploring better workflows for building faster with quality.
+
+---
+
+> “Build with clarity. Scale with intention.”
