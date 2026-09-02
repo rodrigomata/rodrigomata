@@ -1,6 +1,6 @@
 # Hi there, I'm Rodrigo 👋
 
-### Software Engineer • Builder • Systems & Product Architecture Enthusiast
+### Software Engineer • Systems & Product Architecture Enthusiast
 
 I build scalable products and developer-focused systems with a strong emphasis on **clean architecture**, **maintainability**, and **great user experience**.
 
